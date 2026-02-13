@@ -37,12 +37,11 @@ No special software or dependencies required! This is a simple static website th
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/SandeepVashishtha/ValentineWish.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd ValentineWish
+
 ```
 
 3. Open `index.html` in your web browser, or use a local server:
